@@ -1,4 +1,5 @@
-.sln
+*.sln
 .vs/
 bin/
 obj/
+Properties/

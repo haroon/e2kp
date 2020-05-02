@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<KeePassFile>
+  <Root>
+    <Group>
+      <UUID>HvyjC02s7kSmwCNd2NZXnw==</UUID>
+      <Name>KeePass</Name>
+      <Notes />
+      <Group>
+        <UUID>woIBfKPUgUuuXVyjUkpMzw==</UUID>
+        <Name>Category1</Name>
+        <Entry>
+          <UUID>ChwGQfM5m0ipYHoEWCkF3Q==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>Bank Name A
+Telephone 4
+Account Type A
+Account Number A
+PIN a
+Other Information A
+Sort Code A
+SWIFT Code A
+ABA/Routing A
+PIN2 a
+b
+Detail 1 A
+Detail 2 A
+Detail 3 A
+Detail 4 A
+Detail 5 A
+Detail 6 A
+Detail 7 A
+Detail 8 A
+Detail 9 A
+Detail 10 A1
+A2
+Card Notes
+
+these are some notes
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value>a</Value>
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Bank Account</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value>a</Value>
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value>A</Value>
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+        <Entry>
+          <UUID>AmQcM7f3QEqn2zVLPW7ywg==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>Year A
+Make A
+Model A
+License Number A
+Expires on 21/04/2020
+Vehicle Number A
+Cylinders A
+Insurance Company A
+Policy Number A
+Insurance Telephone 4
+Expires on 21/04/2020
+Inspection Expires on 21/04/2020
+Phone Number 4
+Detail 1 A
+Detail 2 A
+Detail 3 A
+Detail 4 A
+Detail 5 A
+Detail 6 A
+Detail 7 A
+Detail 8 A
+Detail 9 A
+Detail 10 A
+Card Notes
+
+Another notes
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value>a</Value>
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Car Info</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value>a</Value>
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value>A</Value>
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+        <Entry>
+          <UUID>nnnuXJ5yVUijaOCP7HPTMg==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>Manufacturer A
+Model A
+Phone Number 4
+PIN a
+Security Code a
+Help Phone Number 4
+SIM A
+IMEI/ESN A
+Carrier A
+Site Password a
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value>a</Value>
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Cellular Phone</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value>a</Value>
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value>A</Value>
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+        <Entry>
+          <UUID>F2rEIu14w0SKgxSxr4rhOg==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>Lock A
+Location A
+Combination a
+Other A
+Detail 1 A
+Detail 10 A
+Card Notes
+
+A
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value />
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Combination Lock</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value />
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value />
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+        <Entry>
+          <UUID>vyfQa9mNSk2UVbsek0qO2w==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>System P1
+Other Pppp
+PIN pppp
+Account Type Pppp
+Phone Number 3333
+Detail 1 Pppp
+Detail 2 Pppp
+Detail 3 Pppp
+Detail 4 Jjjj
+Detail 5 Jjjj
+Detail 6 Jjjj
+Detail 7 Jjjj
+Detail 8 Jjjj
+Detail 9 Jjjj
+Detail 10 Jjjj
+Card Notes
+
+line1
+line2
+line3
+line4
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value>pa</Value>
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Password1</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value>pppp</Value>
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value>Pa</Value>
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+        <Entry>
+          <UUID>q3pySPAZNkq8N/qnWAss0g==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>Note Hhhh
+Card Notes
+
+Jjjj
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value />
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Picture Card</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value />
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value />
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+        <Entry>
+          <UUID>RjQSLYAjq0OksZgpQyRcXw==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>Title Oo
+Manufacturer Oo
+Version O
+Name/Label O
+Number O
+Name O
+Key O
+Purchase Date 24/04/2020
+Purchased From O
+Support Information O
+Part Number O
+Location O
+Phone Number 6
+Detail 1 Jj
+Detail 2 Jk
+Detail 3 H
+Detail 4 N
+Card Notes
+
+Jhvfsadsd
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value>l</Value>
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Software Serial Number</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value>ooo</Value>
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value>O</Value>
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+        <Entry>
+          <UUID>UM+hUXa2r0m0ksfomU434A==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>Site Name B
+Other B
+Phone Number 8
+Detail 1 B
+Detail 2 B
+Detail 3 B
+Detail 4 B
+Detail 5 B
+Detail 6 B
+Detail 7 B
+Detail 8 B
+Detail 9 B
+Detail 10 B
+Card Notes
+
+B
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value>b</Value>
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Web Site</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value>b</Value>
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value>B</Value>
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+      </Group>
+      <Group>
+        <UUID>N0WcCJ+IzEOopKVpEmTyOQ==</UUID>
+        <Name>Category2</Name>
+        <Entry>
+          <UUID>gnW+FzYpgUiXmejfzCZA/A==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>Provider C
+Access Number 8
+Card Number C
+PIN c
+Notes and Instructions C
+Phone Number 8
+Detail 1 C
+Detail 2 C
+Detail 3 C
+Detail 4 C
+Detail 5 C
+Detail 6 C
+Detail 7 C
+Detail 8 C
+Detail 9 C
+Detail 10 C
+Card Notes
+
+C
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value>c</Value>
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Calling Card</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value>c</Value>
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value>C</Value>
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+        <Entry>
+          <UUID>YpDmQN9HH0KlZLN87Wu4YA==</UUID>
+          <String>
+            <Key>Notes</Key>
+            <Value>Sizes For A
+Suit A
+Waist A
+Inseam A
+Shoe A
+Pants A
+Skirt A
+Shirt A
+Neck A
+Glove A
+Other A
+Detail 1 A
+Detail 10 A
+Card Notes
+
+A
+</Value>
+          </String>
+          <String>
+            <Key>Password</Key>
+            <Value />
+          </String>
+          <String>
+            <Key>Title</Key>
+            <Value>Clothes Sizes</Value>
+          </String>
+          <String>
+            <Key>URL</Key>
+            <Value />
+          </String>
+          <String>
+            <Key>UserName</Key>
+            <Value />
+          </String>
+          <AutoType>
+            <Enabled>true</Enabled>
+            <DataTransferObfuscation>0</DataTransferObfuscation>
+            <Association>
+              <Window>Target Window</Window>
+              <KeystrokeSequence>{USERNAME}{TAB}{PASSWORD}{TAB}{ENTER}</KeystrokeSequence>
+            </Association>
+            <History />
+          </AutoType>
+        </Entry>
+      </Group>
+    </Group>
+  </Root>
+</KeePassFile>
